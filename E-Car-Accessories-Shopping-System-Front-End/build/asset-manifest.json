@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/css/main.a0f2539d.chunk.css",
+    "main.js": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/main.d90ab29c.chunk.js",
+    "main.js.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/main.d90ab29c.chunk.js.map",
+    "runtime-main.js": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/runtime-main.db35c024.js",
+    "runtime-main.js.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/runtime-main.db35c024.js.map",
+    "static/css/2.f94bdb3a.chunk.css": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.1caafce3.chunk.js": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/2.1caafce3.chunk.js",
+    "static/js/2.1caafce3.chunk.js.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/2.1caafce3.chunk.js.map",
+    "static/js/3.0d8c5c86.chunk.js": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/3.0d8c5c86.chunk.js",
+    "static/js/3.0d8c5c86.chunk.js.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/3.0d8c5c86.chunk.js.map",
+    "index.html": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/index.html",
+    "static/css/2.f94bdb3a.chunk.css.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/css/2.f94bdb3a.chunk.css.map",
+    "static/css/main.a0f2539d.chunk.css.map": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/css/main.a0f2539d.chunk.css.map",
+    "static/js/2.1caafce3.chunk.js.LICENSE.txt": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/js/2.1caafce3.chunk.js.LICENSE.txt",
+    "static/media/Car1.b3c58c58.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/Car1.b3c58c58.jpg",
+    "static/media/Engine11.21928dab.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/Engine11.21928dab.jpg",
+    "static/media/Engine2.adaac7c4.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/Engine2.adaac7c4.jpg",
+    "static/media/Engine5.821bd52c.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/Engine5.821bd52c.jpg",
+    "static/media/UploadIcon.svg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/UploadIcon.469126df.svg",
+    "static/media/cylinder.ff97d4d4.gif": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/cylinder.ff97d4d4.gif",
+    "static/media/editProfile.10b3ae84.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/editProfile.10b3ae84.jpg",
+    "static/media/login-icon-png.d64507e5.png": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/login-icon-png.d64507e5.png",
+    "static/media/logo.4671888f.svg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/logo.4671888f.svg",
+    "static/media/logo.a80cd305.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/logo.a80cd305.jpg",
+    "static/media/registerNew.48b18b38.jpg": "/samadhan563.github.io/E-Car-Accessories-Shopping-System/static/media/registerNew.48b18b38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db35c024.js",
+    "static/css/2.f94bdb3a.chunk.css",
+    "static/js/2.1caafce3.chunk.js",
+    "static/css/main.a0f2539d.chunk.css",
+    "static/js/main.d90ab29c.chunk.js"
+  ]
+}

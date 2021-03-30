@@ -1,0 +1,186 @@
+.container{
+   margin-top: 10px;
+   text-align: center;
+}
+
+.main{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 600px;
+   border: solid #ececec 1px;
+   background-color:#ffffff;
+   border-radius: 10px;
+   text-align: center;
+}
+
+.main1{
+   
+   margin: auto;
+   margin-top: 70px;
+   margin-bottom: 70px;
+   padding: 20px;
+   width: 1000px;
+   border: solid #ececec 1px;
+   background-color:#ffffff;
+   border-radius: 10px;
+}
+
+.copyright {
+   color: #9F9FA5;
+   text-align: center;
+   margin-top: 20px;
+   font-size: smaller;
+ }
+
+ .carousel-inner{
+    display:block;  
+ }
+
+
+
+ .nameColor{
+    color: black;
+ }
+
+ 
+ .nameColor1{
+   color: red;
+}
+ .position{
+    float: right;
+ }
+
+ .payment{
+    margin-top: 150px;
+    margin-bottom: 250px;
+    margin-left: 600px;
+    margin-right: 300px;
+ }
+
+ .product {
+   border: solid #ccc 1px;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: 1px 1px 4px 2px #c4c4c4;
+   box-shadow: 1px 1px 4px 2px #c4c4c4;
+ }
+
+ 
+.login-form{
+   position: center;
+   width: 400px;
+   padding: 8px 40px;
+   margin: auto;
+   height: 500px;
+   background-color:whitesmoke;
+   
+ }
+ .register-user{
+   position: center;
+   width: 800px;
+   padding: 10px 40px;
+   margin: auto;
+   height: 1000px;
+   background-color:whitesmoke;
+ }
+ 
+ 
+ body {
+   background-color:white;
+   background-attachment: fixed;
+   background-size: 100% 100%;
+ }
+ 
+ .button {
+   border: none;
+   background-color: white;
+   width: 50px;
+   height: 50px;
+   text-align: center;
+   cursor: pointer;
+  /* text-shadow: 2px 2px #ff0000;*/
+   border-radius: 8px;
+   width: 10%;
+   font-size: 18px;
+   background:white;
+   animation: mymove 5s infinite;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+ 
+ 
+ @keyframes mymove {
+   from {background-color: rgba(255, 0, 0, 0.411);}
+   to {background-color:yellow;
+   }
+ }
+ 
+ 
+ .btn-group .button {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   cursor: pointer;
+   float: left;
+ }
+ 
+ .btn-group .button:hover {
+   background-color: #3e8e41;
+ }
+ 
+ h1 {
+   text-shadow: 2px 2px 5px red;
+ }
+ 
+ /*
+ .btnn{width: 100px;
+ height: 100px;
+ background: red;
+ position: relative;
+ animation: mymove 5s infinite;
+ }
+ 
+ @keyframes mymove {
+ 0%   {top: 0px; background: red; width: 100px;}
+ 100% {top: 200px; background: yellow; width: 300px;}
+ }*/
+ label {
+   display: block;
+   margin-top: 10px;
+ }
+ 
+ .card-container.card {
+   max-width: 350px !important;
+   padding: 40px 40px;
+ }
+ 
+ .card {
+   background-color: #f7f7f7;
+   padding: 20px 25px 30px;
+   margin: 0 auto 25px;
+   margin-top: 50px;
+   -moz-border-radius: 2px;
+   -webkit-border-radius: 2px;
+   border-radius: 2px;
+   -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+   -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+ }
+ 
+ .profile-img-card {
+   width: 96px;
+   height: 96px;
+   margin: 0 auto 10px;
+   display: block;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+ }
